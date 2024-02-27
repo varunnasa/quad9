@@ -1,0 +1,10 @@
+google.com A
+facebook.com A
+youtube.com A
+twitter.com A
+instagram.com A
+linkedin.com A
+apple.com A
+microsoft.com A
+googletagmanager.com MX
+wikipedia.org A
